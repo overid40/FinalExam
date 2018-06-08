@@ -1,0 +1,17 @@
+과목명 : Linux Administration
+수강생 이름 : 한경진
+
+Q1. echo /var/log > log_dir.txt
+
+
+Q2. -name
+
+
+Q3. ps
+
+
+Q4. find
+
+
+Q5. passwd
+
